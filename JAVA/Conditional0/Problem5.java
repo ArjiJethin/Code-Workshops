@@ -1,4 +1,4 @@
-package Talentely.Conditional0;
+package Conditional0;
 
 import java.util.Scanner;
 
